@@ -34,6 +34,6 @@ I specialize in developing clean and responsive user interfaces using **React.js
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/roshansinghbisht/)
-- Email: **roshansingh@example.com**
+- Email: **roshansinghbisht@gmail.com**
 
 
